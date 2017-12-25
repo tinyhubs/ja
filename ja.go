@@ -1,5 +1,5 @@
-// Package jd  实现了一个简单的 json 的 DOM 树构造工具.
-package jd
+// Package ja  实现了一个简单的 json 的 DOM 树构造工具.
+package ja
 
 import (
 	"encoding/json"
